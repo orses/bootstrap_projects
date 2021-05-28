@@ -2,7 +2,7 @@
 
 Página web con las clases ofrecidas por Bootstrap sin retoques ni añadidos.
 
-> Live demo [link](https://orses.github.io/bootstrap4_01_basic/)
+> Live demo [link](https://orses.github.io/bootstrap_projects/bootstrap4_001_pure_basic/)
 
 ## Credits
 

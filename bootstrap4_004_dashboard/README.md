@@ -3,7 +3,7 @@
 Diseño de un dashboard para administradores mediante el empleo de Bootstrap 4.6
 
 > Página de prueba - Live demo
-> [enlace](https://orses.github.io/BOOTSTRAP/bootstrap4_002_dashboard)
+> [enlace](https://orses.github.io/bootstrap_projects/bootstrap4_004_dashboard/)
 
 ## Creditos
 
