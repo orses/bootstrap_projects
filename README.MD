@@ -4,7 +4,7 @@
 
 A basic page from Bootstrap 3
 
-> [Live Demo](https://orses.github.io/bootstrap_projects/bootstrap4_001_blog_1/)
+> [Live Demo](https://orses.github.io/bootstrap_projects/bootstrap3_001_blog_1/)
 
 ## Bootstrap 4: Pure basic
 
